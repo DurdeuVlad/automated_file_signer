@@ -1,0 +1,5 @@
+https://www.gnostice.com/nl_article.asp?id=381&t=How_To_Digitally_Sign_A_PDF_Document_Using_USB_token_In_Java
+https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil-examples
+https://docs.oracle.com/javase/8/docs/technotes/guides/security/p11guide.html#Login
+http://freedigitalsignature.blogspot.com/2012/02/ffff-dkeys-genkey-dname-cntom-jones.html
+https://jsignpdf.sourceforge.net/
